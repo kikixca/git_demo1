@@ -18,3 +18,4 @@ hello atguigu hello git
 hello atguigu hello git
 hello atguigu hello git
 11111111111111
+测试ssh之后拉取链接用不用输入密码
